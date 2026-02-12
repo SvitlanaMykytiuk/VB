@@ -1,3 +1,4 @@
+
 ﻿Public Class Form1
 
     Dim firstNumber As Double
@@ -40,3 +41,4 @@
         Label1.Text = "Result: " & result
     End Sub
 End Class
+
