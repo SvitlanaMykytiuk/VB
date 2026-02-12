@@ -1,0 +1,16 @@
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\bin\Debug\net10.0-windows\CountDownWatch.exe
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\bin\Debug\net10.0-windows\CountDownWatch.deps.json
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\bin\Debug\net10.0-windows\CountDownWatch.runtimeconfig.json
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\bin\Debug\net10.0-windows\CountDownWatch.dll
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\bin\Debug\net10.0-windows\CountDownWatch.pdb
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\obj\Debug\net10.0-windows\CountDownWatch.Form1.resources
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\obj\Debug\net10.0-windows\CountDownWatch.vbproj.GenerateResource.cache
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\obj\Debug\net10.0-windows\CountDownWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\obj\Debug\net10.0-windows\CountDownWatch.AssemblyInfoInputs.cache
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\obj\Debug\net10.0-windows\CountDownWatch.AssemblyInfo.vb
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\obj\Debug\net10.0-windows\CountDownWatch.vbproj.CoreCompileInputs.cache
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\obj\Debug\net10.0-windows\CountDownWatch.dll
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\obj\Debug\net10.0-windows\refint\CountDownWatch.dll
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\obj\Debug\net10.0-windows\CountDownWatch.pdb
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\obj\Debug\net10.0-windows\CountDownWatch.genruntimeconfig.cache
+C:\Users\SvitlanaMykytiuk\source\repos\CountDownWatch\CountDownWatch\obj\Debug\net10.0-windows\ref\CountDownWatch.dll

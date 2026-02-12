@@ -1,0 +1,16 @@
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\bin\Debug\net10.0-windows\Blink.exe
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\bin\Debug\net10.0-windows\Blink.deps.json
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\bin\Debug\net10.0-windows\Blink.runtimeconfig.json
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\bin\Debug\net10.0-windows\Blink.dll
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\bin\Debug\net10.0-windows\Blink.pdb
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\Blink.Form1.resources
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\Blink.vbproj.GenerateResource.cache
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\Blink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\Blink.AssemblyInfoInputs.cache
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\Blink.AssemblyInfo.vb
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\Blink.vbproj.CoreCompileInputs.cache
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\Blink.dll
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\refint\Blink.dll
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\Blink.pdb
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\Blink.genruntimeconfig.cache
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\ref\Blink.dll

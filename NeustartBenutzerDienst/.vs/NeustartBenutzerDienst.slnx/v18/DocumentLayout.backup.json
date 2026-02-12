@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\NeustartBenutzerDienst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C7185-2B5F-2C67-AE6E-F26B4FB9A26A}|NeustartBenutzerDienst\\NeustartBenutzerDienst.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\neustartbenutzerdienst\\neustartbenutzerdienst\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C32C7185-2B5F-2C67-AE6E-F26B4FB9A26A}|NeustartBenutzerDienst\\NeustartBenutzerDienst.vbproj|solutionrelative:neustartbenutzerdienst\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C7185-2B5F-2C67-AE6E-F26B4FB9A26A}|NeustartBenutzerDienst\\NeustartBenutzerDienst.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\neustartbenutzerdienst\\neustartbenutzerdienst\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C32C7185-2B5F-2C67-AE6E-F26B4FB9A26A}|NeustartBenutzerDienst\\NeustartBenutzerDienst.vbproj|solutionrelative:neustartbenutzerdienst\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829B9490-4CCA-40BC-4DD4-7D38DB01FE48}|Projektmappenelemente{829B9490-4CCA-40BC-4DD4-7D38DB01FE48}|C:\\Users\\SvitlanaMykytiuk\\Downloads\\google-logo-2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829B9490-4CCA-40BC-4DD4-7D38DB01FE48}|Projektmappenelemente{829B9490-4CCA-40BC-4DD4-7D38DB01FE48}|C:\\Users\\SvitlanaMykytiuk\\Downloads\\google-logo-3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "google-logo-3.png - PNG [196x110, 32-Bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\Downloads\\google-logo-3.png",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\google-logo-3.png",
+              "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\Downloads\\google-logo-3.png - PNG [196x110, 32-Bit, PNG]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\google-logo-3.png - PNG [196x110, 32-Bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-03T14:54:05.909Z",
+              "EditorCaption": " - PNG [196x110, 32-Bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "google-logo-2.jpg - Bitmap [586x539, 24-Bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\Downloads\\google-logo-2.jpg",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\google-logo-2.jpg",
+              "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\Downloads\\google-logo-2.jpg - Bitmap [586x539, 24-Bit, JPG]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\google-logo-2.jpg - Bitmap [586x539, 24-Bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-03T14:39:20.49Z",
+              "EditorCaption": " - Bitmap [586x539, 24-Bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\NeustartBenutzerDienst\\NeustartBenutzerDienst\\Form1.vb",
+              "RelativeDocumentMoniker": "NeustartBenutzerDienst\\Form1.vb",
+              "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\NeustartBenutzerDienst\\NeustartBenutzerDienst\\Form1.vb",
+              "RelativeToolTip": "NeustartBenutzerDienst\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-03T14:37:53.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\NeustartBenutzerDienst\\NeustartBenutzerDienst\\Form1.vb",
+              "RelativeDocumentMoniker": "NeustartBenutzerDienst\\Form1.vb",
+              "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\NeustartBenutzerDienst\\NeustartBenutzerDienst\\Form1.vb [Entwurf]",
+              "RelativeToolTip": "NeustartBenutzerDienst\\Form1.vb [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-03T08:16:39.55Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

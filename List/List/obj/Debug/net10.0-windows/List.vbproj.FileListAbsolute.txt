@@ -1,0 +1,16 @@
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\bin\Debug\net10.0-windows\List.exe
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\bin\Debug\net10.0-windows\List.deps.json
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\bin\Debug\net10.0-windows\List.runtimeconfig.json
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\bin\Debug\net10.0-windows\List.dll
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\bin\Debug\net10.0-windows\List.pdb
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\List.Form1.resources
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\List.vbproj.GenerateResource.cache
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\List.AssemblyInfoInputs.cache
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\List.AssemblyInfo.vb
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\List.vbproj.CoreCompileInputs.cache
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\List.dll
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\refint\List.dll
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\List.pdb
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\List.genruntimeconfig.cache
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\ref\List.dll

@@ -1,0 +1,12 @@
+C:\Users\SvitlanaMykytiuk\source\repos\newTest\newTest\obj\Debug\net10.0-windows10.0.19041.0\win-x64\newTest.csproj.AssemblyReference.cache
+C:\Users\SvitlanaMykytiuk\source\repos\newTest\newTest\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauiimage.inputs
+C:\Users\SvitlanaMykytiuk\source\repos\newTest\newTest\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauifont.inputs
+C:\Users\SvitlanaMykytiuk\source\repos\newTest\newTest\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauisplash.inputs
+C:\Users\SvitlanaMykytiuk\source\repos\newTest\newTest\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauimanifest.stamp
+C:\Users\SvitlanaMykytiuk\source\repos\newTest\newTest\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.i.cs
+C:\Users\SvitlanaMykytiuk\source\repos\newTest\newTest\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.cs
+C:\Users\SvitlanaMykytiuk\source\repos\newTest\newTest\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlTypeInfo.g.cs
+C:\Users\SvitlanaMykytiuk\source\repos\newTest\newTest\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xaml
+C:\Users\SvitlanaMykytiuk\source\repos\newTest\newTest\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xbf
+C:\Users\SvitlanaMykytiuk\source\repos\newTest\newTest\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlSaveStateFile.xml
+C:\Users\SvitlanaMykytiuk\source\repos\newTest\newTest\obj\Debug\net10.0-windows10.0.19041.0\win-x64\newTest.GeneratedMSBuildEditorConfig.editorconfig

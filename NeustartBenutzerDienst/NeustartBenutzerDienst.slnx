@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Projektmappenelemente/">
+    <File Path="../../../Downloads/3d-google-logo-google-is-usa-multinational-corporation-free-vector.jpg" />
+    <File Path="../../../Downloads/google-logo-2.jpg" />
+    <File Path="../../../Downloads/google-logo-3.png" />
+    <File Path="Resources.resx" />
+  </Folder>
+  <Project Path="NeustartBenutzerDienst/NeustartBenutzerDienst.vbproj" />
+</Solution>
