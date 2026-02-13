@@ -61,6 +61,35 @@
     End Sub
 
     Private Sub btnSave_Click(sender As Object, e As EventArgs) Handles btnSave.Click
+        If dgvExpenses.Rows.Count = 0 Then
+            MessageBox.Show("No data to save")
+            Exit Sub
+        End If
 
+        Dim sfd As New SaveFileDialog()
+        sfd.Filter = "Text files (*.txt)|*.txt"
+        sfd.Title = "Save expenses"
+
+        If sfd.ShowDialog() = DialogResult.OK Then
+
+            Using writer As New System.IO.StreamWriter(sfd.FileName, False, System.Text.Encoding.UTF8)
+
+                writer.WriteLine("Date    Category    Amount")
+
+                For Each row As DataGridViewRow In dgvExpenses.Rows
+                    If Not row.IsNewRow Then
+                        writer.WriteLine(
+                        row.Cells(0).Value.ToString() & "    " &
+                        row.Cells(1).Value.ToString() & "    " &
+                        row.Cells(2).Value.ToString()
+                    )
+                    End If
+                Next
+
+            End Using
+
+            MessageBox.Show("File saved successfully!")
+
+        End If
     End Sub
 End Class
