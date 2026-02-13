@@ -14,3 +14,4 @@ C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\ref
 C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\Blink.pdb
 C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\Blink.genruntimeconfig.cache
 C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\ref\Blink.dll
+C:\Users\SvitlanaMykytiuk\source\repos\Blink\Blink\obj\Debug\net10.0-windows\Blink.sourcelink.json

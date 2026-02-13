@@ -14,3 +14,4 @@ C:\Users\SvitlanaMykytiuk\source\repos\Click\Click\obj\Debug\net10.0-windows\ref
 C:\Users\SvitlanaMykytiuk\source\repos\Click\Click\obj\Debug\net10.0-windows\Click.pdb
 C:\Users\SvitlanaMykytiuk\source\repos\Click\Click\obj\Debug\net10.0-windows\Click.genruntimeconfig.cache
 C:\Users\SvitlanaMykytiuk\source\repos\Click\Click\obj\Debug\net10.0-windows\ref\Click.dll
+C:\Users\SvitlanaMykytiuk\source\repos\Click\Click\obj\Debug\net10.0-windows\Click.sourcelink.json

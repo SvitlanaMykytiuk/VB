@@ -14,3 +14,4 @@ C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\refin
 C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\List.pdb
 C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\List.genruntimeconfig.cache
 C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\ref\List.dll
+C:\Users\SvitlanaMykytiuk\source\repos\List\List\obj\Debug\net10.0-windows\List.sourcelink.json

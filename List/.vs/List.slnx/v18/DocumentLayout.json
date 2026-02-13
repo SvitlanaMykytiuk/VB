@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E99EFDC8-F76F-7F02-E2DB-8DDBB91A9969}|List\\List.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\list\\list\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{E99EFDC8-F76F-7F02-E2DB-8DDBB91A9969}|List\\List.vbproj|solutionrelative:list\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E99EFDC8-F76F-7F02-E2DB-8DDBB91A9969}|List\\List.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\list\\list\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E99EFDC8-F76F-7F02-E2DB-8DDBB91A9969}|List\\List.vbproj|solutionrelative:list\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99EFDC8-F76F-7F02-E2DB-8DDBB91A9969}|List\\List.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\list\\list\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E99EFDC8-F76F-7F02-E2DB-8DDBB91A9969}|List\\List.vbproj|solutionrelative:list\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\List\\List\\Form1.vb",
               "RelativeDocumentMoniker": "List\\Form1.vb",
               "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\List\\List\\Form1.vb",
               "RelativeToolTip": "List\\Form1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-02-06T14:54:49.813Z",
               "IsPinned": true,
@@ -36,7 +36,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb [Entwurf]",
               "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\List\\List\\Form1.vb",
               "RelativeDocumentMoniker": "List\\Form1.vb",

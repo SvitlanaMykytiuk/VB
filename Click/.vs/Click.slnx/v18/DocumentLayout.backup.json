@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\Click\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C8B0998-1073-49B3-BCD8-67362B6CCC39}|Click\\Click.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\click\\click\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{1C8B0998-1073-49B3-BCD8-67362B6CCC39}|Click\\Click.vbproj|solutionrelative:click\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{0533510B-959B-4EE5-CDF0-A950CAF134FD}|Click\\Click.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\click\\click\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0533510B-959B-4EE5-CDF0-A950CAF134FD}|Click\\Click.vbproj|solutionrelative:click\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C8B0998-1073-49B3-BCD8-67362B6CCC39}|Click\\Click.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\click\\click\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{1C8B0998-1073-49B3-BCD8-67362B6CCC39}|Click\\Click.vbproj|solutionrelative:click\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{0533510B-959B-4EE5-CDF0-A950CAF134FD}|Click\\Click.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\click\\click\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0533510B-959B-4EE5-CDF0-A950CAF134FD}|Click\\Click.vbproj|solutionrelative:click\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,16 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\Click\\Click\\Form1.vb",
               "RelativeDocumentMoniker": "Click\\Form1.vb",
-              "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\Click\\Click\\Form1.vb*",
-              "RelativeToolTip": "Click\\Form1.vb*",
+              "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\Click\\Click\\Form1.vb",
+              "RelativeToolTip": "Click\\Form1.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-02-06T15:52:46.205Z",
@@ -35,12 +35,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb [Entwurf]",
               "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\Click\\Click\\Form1.vb",
               "RelativeDocumentMoniker": "Click\\Form1.vb",
-              "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\Click\\Click\\Form1.vb [Entwurf]*",
-              "RelativeToolTip": "Click\\Form1.vb [Entwurf]*",
+              "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\Click\\Click\\Form1.vb [Entwurf]",
+              "RelativeToolTip": "Click\\Form1.vb [Entwurf]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-02-06T15:51:45.224Z",
               "EditorCaption": " [Entwurf]"

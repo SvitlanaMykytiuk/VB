@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\NeustartBenutzerDienst\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C32C7185-2B5F-2C67-AE6E-F26B4FB9A26A}|NeustartBenutzerDienst\\NeustartBenutzerDienst.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\neustartbenutzerdienst\\neustartbenutzerdienst\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C32C7185-2B5F-2C67-AE6E-F26B4FB9A26A}|NeustartBenutzerDienst\\NeustartBenutzerDienst.vbproj|solutionrelative:neustartbenutzerdienst\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32C7185-2B5F-2C67-AE6E-F26B4FB9A26A}|NeustartBenutzerDienst\\NeustartBenutzerDienst.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\neustartbenutzerdienst\\neustartbenutzerdienst\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C32C7185-2B5F-2C67-AE6E-F26B4FB9A26A}|NeustartBenutzerDienst\\NeustartBenutzerDienst.vbproj|solutionrelative:neustartbenutzerdienst\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C32C7185-2B5F-2C67-AE6E-F26B4FB9A26A}|NeustartBenutzerDienst\\NeustartBenutzerDienst.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\neustartbenutzerdienst\\neustartbenutzerdienst\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{C32C7185-2B5F-2C67-AE6E-F26B4FB9A26A}|NeustartBenutzerDienst\\NeustartBenutzerDienst.vbproj|solutionrelative:neustartbenutzerdienst\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
@@ -19,12 +27,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\NeustartBenutzerDienst\\NeustartBenutzerDienst\\Form1.resx",
+              "RelativeDocumentMoniker": "NeustartBenutzerDienst\\Form1.resx",
+              "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\NeustartBenutzerDienst\\NeustartBenutzerDienst\\Form1.resx",
+              "RelativeToolTip": "NeustartBenutzerDienst\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-13T12:26:46.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\NeustartBenutzerDienst\\NeustartBenutzerDienst\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "NeustartBenutzerDienst\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\NeustartBenutzerDienst\\NeustartBenutzerDienst\\Form1.Designer.vb",
+              "RelativeToolTip": "NeustartBenutzerDienst\\Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-13T12:26:43.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\NeustartBenutzerDienst\\NeustartBenutzerDienst\\Form1.vb",
               "RelativeDocumentMoniker": "NeustartBenutzerDienst\\Form1.vb",
               "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\NeustartBenutzerDienst\\NeustartBenutzerDienst\\Form1.vb",
               "RelativeToolTip": "NeustartBenutzerDienst\\Form1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-02-03T09:38:02.589Z",
               "EditorCaption": ""

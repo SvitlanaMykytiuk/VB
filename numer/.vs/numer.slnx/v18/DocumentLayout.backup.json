@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\numer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{581DFA1E-B7FD-B895-1094-E8A06B45B850}|numer\\numer.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\numer\\numer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{581DFA1E-B7FD-B895-1094-E8A06B45B850}|numer\\numer.vbproj|solutionrelative:numer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{581DFA1E-B7FD-B895-1094-E8A06B45B850}|numer\\numer.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\numer\\numer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{581DFA1E-B7FD-B895-1094-E8A06B45B850}|numer\\numer.vbproj|solutionrelative:numer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581DFA1E-B7FD-B895-1094-E8A06B45B850}|numer\\numer.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\numer\\numer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{581DFA1E-B7FD-B895-1094-E8A06B45B850}|numer\\numer.vbproj|solutionrelative:numer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\numer\\numer\\Form1.vb",
               "RelativeDocumentMoniker": "numer\\Form1.vb",
               "ToolTip": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\numer\\numer\\Form1.vb",
               "RelativeToolTip": "numer\\Form1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-02-11T13:17:32.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb [Entwurf]",
               "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\numer\\numer\\Form1.vb",
               "RelativeDocumentMoniker": "numer\\Form1.vb",

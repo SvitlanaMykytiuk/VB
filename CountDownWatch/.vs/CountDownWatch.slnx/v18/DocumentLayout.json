@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\CountDownWatch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DB3BBDB-74AA-4756-B93C-7D75C4F83F57}|CountDownWatch\\CountDownWatch.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\countdownwatch\\countdownwatch\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{2DB3BBDB-74AA-4756-B93C-7D75C4F83F57}|CountDownWatch\\CountDownWatch.vbproj|solutionrelative:countdownwatch\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{291EB35D-99A3-927D-A423-2C97010D84E3}|CountDownWatch\\CountDownWatch.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\countdownwatch\\countdownwatch\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{291EB35D-99A3-927D-A423-2C97010D84E3}|CountDownWatch\\CountDownWatch.vbproj|solutionrelative:countdownwatch\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DB3BBDB-74AA-4756-B93C-7D75C4F83F57}|CountDownWatch\\CountDownWatch.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\countdownwatch\\countdownwatch\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{2DB3BBDB-74AA-4756-B93C-7D75C4F83F57}|CountDownWatch\\CountDownWatch.vbproj|solutionrelative:countdownwatch\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{291EB35D-99A3-927D-A423-2C97010D84E3}|CountDownWatch\\CountDownWatch.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\countdownwatch\\countdownwatch\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{291EB35D-99A3-927D-A423-2C97010D84E3}|CountDownWatch\\CountDownWatch.vbproj|solutionrelative:countdownwatch\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\CountDownWatch\\CountDownWatch\\Form1.vb",
               "RelativeDocumentMoniker": "CountDownWatch\\Form1.vb",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb [Entwurf]",
               "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\CountDownWatch\\CountDownWatch\\Form1.vb",
               "RelativeDocumentMoniker": "CountDownWatch\\Form1.vb",

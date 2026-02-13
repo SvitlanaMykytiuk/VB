@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\Calc1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02F65C5B-C330-E918-DBE8-4E52E9CC913C}|Calc1\\Calc1.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\calc1\\calc1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{02F65C5B-C330-E918-DBE8-4E52E9CC913C}|Calc1\\Calc1.vbproj|solutionrelative:calc1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02F65C5B-C330-E918-DBE8-4E52E9CC913C}|Calc1\\Calc1.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\calc1\\calc1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{02F65C5B-C330-E918-DBE8-4E52E9CC913C}|Calc1\\Calc1.vbproj|solutionrelative:calc1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F65C5B-C330-E918-DBE8-4E52E9CC913C}|Calc1\\Calc1.vbproj|c:\\users\\svitlanamykytiuk\\source\\repos\\calc1\\calc1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{02F65C5B-C330-E918-DBE8-4E52E9CC913C}|Calc1\\Calc1.vbproj|solutionrelative:calc1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\Calc1\\Calc1\\Form1.vb",
               "RelativeDocumentMoniker": "Calc1\\Form1.vb",
@@ -36,7 +36,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb [Entwurf]",
               "DocumentMoniker": "C:\\Users\\SvitlanaMykytiuk\\source\\repos\\Calc1\\Calc1\\Form1.vb",
               "RelativeDocumentMoniker": "Calc1\\Form1.vb",

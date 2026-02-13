@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Blink"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84001fd54072af95233dbd80fe983505182f487a"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Blink"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Blink"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

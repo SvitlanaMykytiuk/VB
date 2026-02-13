@@ -14,3 +14,4 @@ C:\Users\SvitlanaMykytiuk\source\repos\numer\numer\obj\Debug\net10.0-windows\ref
 C:\Users\SvitlanaMykytiuk\source\repos\numer\numer\obj\Debug\net10.0-windows\numer.pdb
 C:\Users\SvitlanaMykytiuk\source\repos\numer\numer\obj\Debug\net10.0-windows\numer.genruntimeconfig.cache
 C:\Users\SvitlanaMykytiuk\source\repos\numer\numer\obj\Debug\net10.0-windows\ref\numer.dll
+C:\Users\SvitlanaMykytiuk\source\repos\numer\numer\obj\Debug\net10.0-windows\numer.sourcelink.json
